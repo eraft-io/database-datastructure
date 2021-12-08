@@ -21,7 +21,6 @@
 // SOFTWARE.
 
 #include "bplustree.h"
-// #include "bpt.h"
 
 int main() {
   BPTree<int, int> bpt(3);
